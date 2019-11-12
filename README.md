@@ -1,2 +1,3 @@
 # GameWikiSum
-Video Games Multi-Document Summarization
+
+Stay tuned for the data !
