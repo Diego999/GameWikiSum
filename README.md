@@ -1,3 +1,3 @@
 # GameWikiSum
 
-Stay tuned for the data !
+Stay tuned for the data ! (April - May)
