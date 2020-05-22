@@ -28,7 +28,7 @@ Please cite our paper if you find the data helpful, thanks!
 # Sample
 
 ```
-{
+[
             {
             "game_id": 40859,
             "game_title": "Spyro: Year of the Dragon",
@@ -118,7 +118,7 @@ Please cite our paper if you find the data helpful, thanks!
             "wiki_title": "Spyro: Year of the Dragon",
             "wiki_url": "https://en.wikipedia.org/wiki/Spyro:_Year_of_the_Dragon"
         }
-}
+]
 ```
 
 All the ```preprocessed_*``` have been preprocessed with [_normalize_text](https://github.com/tensorflow/tensor2tensor/blob/e1f0e3a746bb322f4bf3975fad2c8105b3a43a49/tensor2tensor/data_generators/wikisum/wikisum.py#L335).
