@@ -4,11 +4,32 @@ It's coming in the next days.
 
 GameWikiSum, a new domain-specific (video game) dataset for multi-document summarization, which is one hundred times larger than commonly used datasets, and in another domain than news. Input documents consist of long professional video game reviews as well as references of their gameplay sections inWikipedia pages.
 
+You can download the data [here](http://lia.epfl.ch/Datasets/Full_GameWiki.zip). The use of the data set is restricted to academic research purpose only.
+
+# Citation
+
+Please cite our paper if you find the data helpful, thanks!
+
+```
+@InProceedings{antognini-faltings:2020:LREC2,
+  author    = {Antognini, Diego  and  Faltings, Boi},
+  title     = {GameWikiSum: a Novel Large Multi-Document Summarization Dataset},
+  booktitle      = {Proceedings of The 12th Language Resources and Evaluation Conference},
+  month          = {May},
+  year           = {2020},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {6645--6650},
+  abstract  = {Today's research progress in the field of multi-document summarization is obstructed by the small number of available datasets. Since the acquisition of reference summaries is costly, existing datasets contain only hundreds of samples at most, resulting in heavy reliance on hand-crafted features or necessitating additional, manually annotated data. The lack of large corpora therefore hinders the development of sophisticated models. Additionally, most publicly available multi-document summarization corpora are in the news domain, and no analogous dataset exists in the video game domain. In this paper, we propose GameWikiSum, a new domain-specific dataset for multi-document summarization, which is one hundred times larger than commonly used datasets, and in another domain than news. Input documents consist of long professional video game reviews as well as references of their gameplay sections in Wikipedia pages. We analyze the proposed dataset and show that both abstractive and extractive models can be trained on it. We release GameWikiSum for further research: https://github.com/Diego999/GameWikiSum.},
+  url       = {https://www.aclweb.org/anthology/2020.lrec-1.820}
+}
+```
+
 # Sample
 
 ```
 {
-{
+            {
             "game_id": 40859,
             "game_title": "Spyro: Year of the Dragon",
             "platform": "PlayStation",
