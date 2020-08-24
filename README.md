@@ -1,7 +1,5 @@
 # GameWikiSum - LREC 2020
 
-It's coming in the next days.
-
 GameWikiSum, a new domain-specific (video game) dataset for multi-document summarization, which is one hundred times larger than commonly used datasets, and in another domain than news. Input documents consist of long professional video game reviews as well as references of their gameplay sections inWikipedia pages.
 
 You can download the data [here](http://lia.epfl.ch/Datasets/Full_GameWiki.zip). The use of the data set is restricted to academic research purpose only.
