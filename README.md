@@ -2,7 +2,7 @@
 
 GameWikiSum, a new domain-specific (video game) dataset for multi-document summarization, which is one hundred times larger than commonly used datasets, and in another domain than news. Input documents consist of long professional video game reviews as well as references of their gameplay sections inWikipedia pages.
 
-You can download the data [here](https://filesender.switch.ch/filesender2/?s=download&token=b3b97529-0503-41de-b9a7-ff1e21a337b3). The use of the data set is restricted to academic research purpose only.
+You can download the data [here](https://filesender.switch.ch/filesender2/?s=download&token=783b5392-be3d-4ea2-b4cb-265fa6faf91f). The use of the data set is restricted to academic research purpose only.
 
 # Citation
 
